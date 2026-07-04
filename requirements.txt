@@ -8,3 +8,4 @@ langchain-huggingface
 transformers
 langchain-google-genai
 pypdf
+sentence-transformers
