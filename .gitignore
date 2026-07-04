@@ -1,0 +1,14 @@
+# Virtual Environments 
+venv/ 
+rag_env/ 
+ 
+# Secrets 
+.env 
+ 
+# Caches 
+__pycache__/ 
+*.pyc 
+ 
+# Vector Databases 
+data/ 
+database/
