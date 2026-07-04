@@ -7,3 +7,4 @@ python-dotenv
 langchain-huggingface
 transformers
 langchain-google-genai
+pypdf
